@@ -1,1 +1,13 @@
 theme: minima
+
+title: anonDissent's Investigations
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

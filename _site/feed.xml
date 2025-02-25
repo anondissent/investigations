@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-24T22:57:18-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">investigations</title><subtitle>Investigation Repo</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-24T23:43:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">anonDissent’s Investigations</title><subtitle>Investigation Repo</subtitle><entry><title type="html">Who does JD Vance Follow on Twitter? Part One</title><link href="http://localhost:4000/2025/02/24/JD-Vance-follows-part-one/" rel="alternate" type="text/html" title="Who does JD Vance Follow on Twitter? Part One" /><published>2025-02-24T00:00:00-05:00</published><updated>2025-02-24T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/24/JD-Vance-follows-part-one</id><content type="html" xml:base="http://localhost:4000/2025/02/24/JD-Vance-follows-part-one/"><![CDATA[<h2 id="why-do-twitter-x-follows-matter">Why do Twitter (X) follows matter?</h2>
+
+<p>Before launching into a series on who JD Vance follows, I’d like to outline why I think this is even a useful exercise.</p>
+
+<p>Engagement is at the core of social media algorithms. This is an oversimplification, but generally speaking the more
+that users engage with a profile (via clicks, likes, retweets, follows, etc.) the more that profile is shown to
+other users</p>
+
+<p>When large public figures on Twitter engages with other social media accounts, they expose those accounts to their follows
+either directly via retweets or comments, or indirectly via <strong>For You</strong> or <strong>Who to follow</strong> sections of the Twitter
+UI.</p>
+
+<p>A large public figure’s engagement has even greater network effects, beyond their own following. The networks of public
+figures amplify the engagement to even wider nets of followers.</p>
+
+<p>For example, JD Vance has a respectable <strong>3.7M followers</strong>, Trump has <strong>101.6M followers</strong> , and Elon has
+<strong>218.8M followers</strong>. While JD Vance directly only has the <strong>3.7M followers</strong> his proximity to Trump and Elon
+gives the information and accounts he engages with a much wider audience.</p>
+
+<p>Does this mean if JD Vance retweets an account it will reach all of Elon and Trump’s followers? No
+However, things he tweets are more likely to get retweeted by Trump and Elon, and sources JD uses are
+more likely to be trusted by Trump, Elon, and other right-wing figures as well. Due to his proximity to Trump,
+Elon, and other right-wing figures JD Vance’s influence extends greatly beyond his <strong>3.7M followers</strong>.</p>
+
+<p>To what extent does it extend? That is unclear and would require some sophisticated data analytics that I’m not
+equipped to carry out</p>
+
+<p>Some things I would be interested in knowing to test some of the claims above are as follows:</p>
+
+<ul>
+  <li>How much does a Trump, Elon, or Vance retweet “boost” an account?</li>
+  <li>How often do Trump or Elon retweet Vance?</li>
+  <li>Can we identify a Vance influence on Trump, Elon, or other large right-wing figures? (For example, Vance introducing
+some anon account to the other major figures)</li>
+  <li>Can we identify Vance’s major influences?</li>
+</ul>
+
+<p>Let me also be clear, JD Vance does not need a large following for us to be concerned about who he follows and
+what he reposts. He is the Vice President of the United States, a heartbeat away from being the most powerful man
+on Earth, we should be concerned about who he follows <strong>no matter</strong> how many followers he has.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Why do Twitter (X) follows matter?]]></summary></entry></feed>
