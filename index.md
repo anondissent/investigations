@@ -15,3 +15,5 @@ that now sit within the inner circle of the most powerful man on earth.
 
 This project aims to **document**, **analyze**, and **expose** the connections between the White
 House, Silicon Valley, and far-right neo-nazi extremist movements.
+
+Feel free to reach out with any thoughts and feedback
